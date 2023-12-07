@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Based on initial code from https://github.com/shenwei356/bio_scripts
 from __future__ import print_function
 import argparse
 import gzip
